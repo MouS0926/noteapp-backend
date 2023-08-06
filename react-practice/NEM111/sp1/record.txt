@@ -1,0 +1,15 @@
+
+ GET | API Endpoint /
+ GET | API Endpoint /
+ GET | API Endpoint /about
+ GET | API Endpoint /about
+ GET | API Endpoint /
+ GET | API Endpoint /route
+ GET | API Endpoint /myroute
+ GET | API Endpoint /myroute/about
+ GET | API Endpoint /myroute/weather
+ GET | API Endpoint /myroute/weather?city=kol
+ GET | API Endpoint /myroute/weather?city=delhi
+ GET | API Endpoint /myroute/weather?student=1
+ GET | API Endpoint /myroute/student/1
+ GET | API Endpoint /myroute/student/1
